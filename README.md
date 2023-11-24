@@ -1,2 +1,6 @@
 # AppDev
-My first Repository
+Abogado Aive
+Fabella Euge
+Ogoc Marvin
+Fajardo Jhoven
+Betito Rhynne
